@@ -6,7 +6,7 @@
 
 2. Hacer una funcion que muestre en consola el contenido de los archivos. Debe usar fs.readFile, no fs.readFileSync. 
 
-3. Hacer una funcion que uno de los archivos y cree un nuevo archivo con todo el texto del anterior en mayúsculas. 
+3. Hacer una funcion que lea uno de los archivos y cree un nuevo archivo con todo el texto del anterior en mayúsculas. 
 
 4. Hacer una función que lea cada uno de los archivos y finalmente cree un cuarto archivo con el contenido de los tres restantes. 
 
